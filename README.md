@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tanmaysingh2003
-- 👀 I’m interested in Product management and data analytics 
+- 👀 I’m interested in Product management,data analytics and management consulting
 - 🌱 I’m currently learning Data analytics
 - 💞️ I’m looking to collaborate on projects related to analytics
 - 📫 You can reach me at 9452991191 or 2021ceb1031@iitrpr.ac.in
